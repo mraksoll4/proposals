@@ -12,7 +12,7 @@ How to create valid proposoal
 9. A maximum detailed as possible description of the proposal and what it encompasses.
 11. Make Pull requests.
 12. Send you proposoal to [Discord](https://discord.gg/HKbdGANbZA) at chanel proposoals.
-13. wait.
+13. review.
 
 as exmample
 
