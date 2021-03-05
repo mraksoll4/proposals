@@ -1,2 +1,17 @@
 # proposals
-This repo for proposoal history
+How to create valid proposoal
+
+1. Fork this repo
+2. Create new folder with name of block proposoal and/or add to exist new file 
+3. Proposoal name how it named at wallet
+4. URL of your github from what you merge this proposoal
+5. Owner - The name or party of who is responsible for working on this proposal. The person(s) should be involved in the creation of this proposal.
+6. The amount of SCA being requested and the associated dollar if applicable.
+7. The voting command: vote [hash] yes/no
+8. Previous Work github link to previus proposal
+9. A maximum detailed as possible description of the proposal and what it encompasses.
+
+as exmample
+
+example at wallet( this not need add to github!)
+
