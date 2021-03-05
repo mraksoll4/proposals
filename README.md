@@ -22,3 +22,4 @@ example at wallet( this not need add to github!)
 
 example at gitgub.
 
+[example at gitgub](https://github.com/mraksoll4/proposals/blob/master/2000/Qt-Exchange-Widget.md)
