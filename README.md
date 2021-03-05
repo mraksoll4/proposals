@@ -20,4 +20,6 @@ example at wallet( this not need add to github!)
 
 ![proposoal](https://user-images.githubusercontent.com/32709596/110054174-4ce14c80-7d63-11eb-9872-ac265415cf28.png)
 
-[example at gitgub](https://github.com/mraksoll4/proposals/blob/master/2000/Qt-Exchange-Widget.md)
+example at gitgub
+
+https://github.com/mraksoll4/proposals/blob/master/2000/Qt-Exchange-Widget.md
